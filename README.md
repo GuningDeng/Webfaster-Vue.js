@@ -1,3 +1,3 @@
 # Webfaster-Vue.js
-Node js + Express + Cors (Cross-origin resource sharing) separation of front end and back end demo.
+Separation of front end and backend by Node js + Express + Cors (Cross-origin resource sharing).  
 Eerste poging van VUE.js.
