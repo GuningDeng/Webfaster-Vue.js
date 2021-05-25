@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import App from './app/App.vue'
 import axios from 'axios'
 
 // let url = "http://localhost:3000/" // all API
@@ -15,5 +15,8 @@ axios
     })
 
 
-createApp(App).mount('#app')
+// createApp(App).mount('#app')
+const app = createApp(App)
+
+app.mount('#app')
 
